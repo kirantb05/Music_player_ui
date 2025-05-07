@@ -17,5 +17,11 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-
 Your site is live at:: https://kirantb05.github.io/Music_player_ui/
+
+
+
+Output of the Project is :
+
+![image](https://github.com/user-attachments/assets/ba30f643-623c-4d3b-83a8-6cb873240694)
+
